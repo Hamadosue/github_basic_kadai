@@ -14,8 +14,8 @@ body{
 
 h1{
   font-size: 2rem;
-  font-family: sans-serif;
-  line-height: 1.2;
+  font-family: "Josenfin Sans",sans-serif;
+  letter-spacing: 1.2;
   text-shadow: 1px 1px 3px red;
   border-bottom: solid 3px rgb(115, 115, 114);
 }
